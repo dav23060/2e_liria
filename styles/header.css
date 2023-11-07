@@ -21,6 +21,8 @@
 
 .container__imagem {
     padding: 1em;
+    width: 7%;
+    height: 7%;
 }
 
 .lista-menu {
@@ -81,4 +83,3 @@
 
 
 }
-    
